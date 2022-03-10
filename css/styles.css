@@ -79,7 +79,7 @@ hr{
 
 .aboutme{
     color: #40514E;
-    width: 30%;
+    width: 50%;
     margin: auto;
     line-height: 2;
 
@@ -87,6 +87,8 @@ hr{
 
 .profile{
     border-radius: 100%;
+    width: 45%;
+    margin: auto;
 }
 
 .blockchain{
